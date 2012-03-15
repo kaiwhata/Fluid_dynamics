@@ -1,0 +1,4 @@
+Fluid_dynamics
+
+Basic simulation of fluid flow through an elastomeric nanopore under pressure conditions.
+Uses Fenics and DOLFIN modules from: http://fenicsproject.org/
